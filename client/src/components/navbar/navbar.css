@@ -1,0 +1,32 @@
+.navbar {
+    font-family: Courier, monospace !important;
+    background-color: #d5b590 !important;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    font-family: 'Abril Fatface';
+    color: #1b4738 !important;
+    font-size: 32px !important;
+}
+
+#navbarNavAltMarkup{
+    float: right;
+    margin: 0 10px 0 0;
+    justify-content: right;
+}
+
+.navbar-nav {
+    justify-content: end;
+    text-align: right;
+
+}
+
+.nav-link {
+    background-color: #d5b590;
+
+}
+
+#nav-menu {
+    display: flex;
+}
